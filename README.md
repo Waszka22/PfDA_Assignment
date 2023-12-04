@@ -2,9 +2,13 @@
 
 ## Introduction
 
+***
+
 This repository is used for the project given by the lecture on Programming for Data Analysis module on <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>. This repository contains the Jupyter notebook <code>PfDA_Assigment.ipynb</code> and data files. 
 
-___
+*** 
+
+***
 ### Problem Statement
 
 For this project you must create a data set by simulating a real-world phenomenon of
@@ -21,7 +25,9 @@ Specifically, in this project you should:
 + Synthesise/simulate a data set as closely matching their properties as possible.
 + Detail your research and implement the simulation in a Jupyter notebook – the
   data set itself can simply be displayed in an output cell within the notebook.
-__
+  
+***   
+
 ### How to run the code
 
  1. Instal Python 
@@ -32,22 +38,25 @@ __
  6. On the home page of opened Jupyter server select <code>PfDA_Assigment.ipynb</code>
 
 * The Jupyter Notebook <code>PfDA_Assigment.ipynb</code> project can be viewed directly on GitHub repository without installation 
-__
+
+***
+
 #### Content of repository 
 * The Readme file
 * The PfDA_Assigment.ipynb notebook 
 * Sleep_health_and_lifestyle_dataset.csv file 
 
-__
+***
+
 ### Programing Language 
 Python 3.10.9 version was used
 * [Python](https://www.python.org/)
-__
+
 #### Technologies 
 Applications used for project
 * [The Jupyter Notebook](https://jupyter.org/)
 * [Cmder git](https://cmder.app/)
-__
+
 ### Important Library 
 Libraries used to complete project
 * [pandas](https://pandas.pydata.org/)
